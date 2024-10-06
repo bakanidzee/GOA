@@ -1,0 +1,10 @@
+git add .
+git commit -m "New"
+git push
+
+git init
+git add .
+git commit -m "New"
+git branch -M main
+git remote add origin რეპოზიტორიის ლინკი
+git push -u origin main
