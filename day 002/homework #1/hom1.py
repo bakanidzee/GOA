@@ -4,6 +4,8 @@ width(7)
 color("gray")
 speed(900)
 
+begin_fill()
+
 forward(337)
 left(90)
 forward(200)
@@ -42,11 +44,6 @@ forward(20)
 left(90)
 forward(20)
 left(90)
-
-
-
-
-
 forward(20)
 right(90)
 forward(20)
@@ -66,6 +63,7 @@ forward(20)
 left(90)
 
 forward(300)
+
 
 left(180)
 forward(200)
@@ -94,6 +92,7 @@ forward(200)
 left(90)
 forward(135)
 
+end_fill()
 color("brown")
 begin_fill()
 left(90)
